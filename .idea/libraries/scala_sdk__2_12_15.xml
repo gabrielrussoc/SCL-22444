@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="scala-sdk-2.12.15" type="Scala">
+  <library name="scala-sdk__2.12.15" type="Scala">
     <properties>
       <language-level>Scala_2_12</language-level>
       <compiler-classpath>
